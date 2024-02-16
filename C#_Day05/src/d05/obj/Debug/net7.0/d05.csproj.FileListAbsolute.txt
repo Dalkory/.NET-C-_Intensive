@@ -1,0 +1,5 @@
+/home/s21/C_sharp_Day05-1/src/d05/obj/Debug/net7.0/d05.csproj.AssemblyReference.cache
+/home/s21/C_sharp_Day05-1/src/d05/obj/Debug/net7.0/d05.GeneratedMSBuildEditorConfig.editorconfig
+/home/s21/C_sharp_Day05-1/src/d05/obj/Debug/net7.0/d05.AssemblyInfoInputs.cache
+/home/s21/C_sharp_Day05-1/src/d05/obj/Debug/net7.0/d05.AssemblyInfo.cs
+/home/s21/C_sharp_Day05-1/src/d05/obj/Debug/net7.0/d05.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+Source:
+  YAML
+Application:
+  ex03
+CheckForUpdates:
+  false
+Domain:
+  "http://localhost"
+Port:
+  8080

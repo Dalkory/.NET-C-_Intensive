@@ -1,0 +1,13 @@
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/bin/Debug/net5.0/Markdown.Generator.Core.xml
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/bin/Debug/net5.0/Markdown.Generator.Core.deps.json
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/bin/Debug/net5.0/Markdown.Generator.Core.dll
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/bin/Debug/net5.0/Markdown.Generator.Core.pdb
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/Markdown.Generator.Core.csproj.AssemblyReference.cache
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/Markdown.Generator.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/Markdown.Generator.Core.AssemblyInfoInputs.cache
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/Markdown.Generator.Core.AssemblyInfo.cs
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/Markdown.Generator.Core.csproj.CoreCompileInputs.cache
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/Markdown.Generator.Core.dll
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/refint/Markdown.Generator.Core.dll
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/Markdown.Generator.Core.pdb
+/home/s21/C_sharp_Day08-1/src/Markdown.Generator/Markdown.Generator.Core/obj/Debug/net5.0/ref/Markdown.Generator.Core.dll

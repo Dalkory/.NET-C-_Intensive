@@ -1,0 +1,15 @@
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/bin/Debug/net7.0/d07_ex02
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/bin/Debug/net7.0/d07_ex02.deps.json
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/bin/Debug/net7.0/d07_ex02.runtimeconfig.json
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/bin/Debug/net7.0/d07_ex02.dll
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/bin/Debug/net7.0/d07_ex02.pdb
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.csproj.AssemblyReference.cache
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.GeneratedMSBuildEditorConfig.editorconfig
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.AssemblyInfoInputs.cache
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.AssemblyInfo.cs
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.csproj.CoreCompileInputs.cache
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.dll
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/refint/d07_ex02.dll
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.pdb
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/d07_ex02.genruntimeconfig.cache
+/home/s21/C_sharp_Day07-1/src/d07/d07_ex02/obj/Debug/net7.0/ref/d07_ex02.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "moCvGN64kd3GFLGXsaqHs1PKrXqwplOu0WvG1AF4u8PiC+/nKlkVd+p3BgsRmWVbjePtOGFSgr5ml0Yb2VUIRA==",
+  "success": true,
+  "projectFilePath": "/home/s21/C_sharp_Day03-2/src/d03/d03.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/yamldotnet/15.1.0/yamldotnet.15.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

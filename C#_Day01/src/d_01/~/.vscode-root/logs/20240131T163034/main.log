@@ -1,0 +1,25 @@
+2024-01-31 16:30:35.871 [info] update#setState idle
+2024-01-31 16:30:56.362 [info] Extension host with pid 147685 exited with code: 0, signal: unknown.
+2024-01-31 16:31:05.214 [info] update#setState checking for updates
+2024-01-31 16:31:05.217 [info] update#setState idle
+2024-01-31 17:31:05.217 [info] update#setState checking for updates
+2024-01-31 17:31:05.228 [info] update#setState idle
+2024-02-01 11:35:36.256 [info] update#setState checking for updates
+2024-02-01 11:35:36.259 [info] update#setState idle
+2024-02-01 12:35:36.265 [info] update#setState checking for updates
+2024-02-01 12:35:36.296 [info] update#setState idle
+2024-02-01 13:17:53.437 [warning] No ptyHost heartbeat after 6 seconds
+2024-02-01 13:35:36.287 [info] update#setState checking for updates
+2024-02-01 13:35:36.290 [info] update#setState idle
+2024-02-01 14:35:36.291 [info] update#setState checking for updates
+2024-02-01 14:35:36.294 [info] update#setState idle
+2024-02-01 15:35:36.296 [info] update#setState checking for updates
+2024-02-01 15:35:36.302 [info] update#setState idle
+2024-02-01 16:35:36.299 [info] update#setState checking for updates
+2024-02-01 16:35:36.300 [info] update#setState idle
+2024-02-01 17:35:36.308 [info] update#setState checking for updates
+2024-02-01 17:35:36.340 [info] update#setState idle
+2024-02-01 18:35:36.339 [info] update#setState checking for updates
+2024-02-01 18:35:36.346 [info] update#setState idle
+2024-02-01 19:35:36.342 [info] update#setState checking for updates
+2024-02-01 19:35:36.371 [info] update#setState idle

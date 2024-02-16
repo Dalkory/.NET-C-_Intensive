@@ -1,0 +1,7 @@
+{
+  "CheckForUpdates": true,
+  "Application": "ex03",
+  "Port": 1234,
+  "Source": "JSON",
+  "Domain": "http://localhost"
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uov1bmdgTuP8M81aX//q32+tWFWtKJvMPgolrp7uOUpaBUszKLvVJ+YIAJ6kQ9QCCBS1mq8XVCDnEd+uB2xEWw==",
+  "success": true,
+  "projectFilePath": "/home/s21/C_sharp_Day06-1/src/d06/d_01.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.extensions.configuration/6.0.0-preview.4.21253.7/microsoft.extensions.configuration.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0-preview.4.21253.7/microsoft.extensions.configuration.abstractions.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0-preview.4.21253.7/microsoft.extensions.configuration.fileextensions.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.configuration.json/6.0.0-preview.4.21253.7/microsoft.extensions.configuration.json.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0-preview.4.21253.7/microsoft.extensions.fileproviders.abstractions.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0-preview.4.21253.7/microsoft.extensions.fileproviders.physical.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0-preview.4.21253.7/microsoft.extensions.filesystemglobbing.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.primitives/6.0.0-preview.4.21253.7/microsoft.extensions.primitives.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-preview.4.21253.7/system.runtime.compilerservices.unsafe.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/system.text.encodings.web/6.0.0-preview.4.21253.7/system.text.encodings.web.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/root/.nuget/packages/system.text.json/6.0.0-preview.4.21253.7/system.text.json.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
+  "logs": []
+}
